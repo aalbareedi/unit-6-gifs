@@ -1,0 +1,14 @@
+#gifs-appear-here {
+  width: 70%;
+}
+#gifs-appear-here div {
+  float: left;
+  margin: 10px;
+}
+#section2 {
+  float: right;
+}
+
+.topic {
+  color: blue;
+}
